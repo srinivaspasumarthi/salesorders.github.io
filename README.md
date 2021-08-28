@@ -1,2 +1,2 @@
-# salesorders.giyhub.io
+# salesorders.github.io
 sales orders
